@@ -9,17 +9,12 @@
     }
   ],
   "require": {
-    "magento-hackathon/magento-composer-installer": "*",
-    "inchoo/php7": "dev-master"
+    "magento-hackathon/magento-composer-installer": "*"
   },
   "repositories": [
     {
       "type": "composer",
       "url": "http://packages.firegento.com"
-    },
-    {
-      "type": "git",
-      "url": "https://github.com/Inchoo/Inchoo_PHP7.git"
     }
   ]
 }
